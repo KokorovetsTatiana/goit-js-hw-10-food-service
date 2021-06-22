@@ -1,5 +1,4 @@
 # goit-js-hw-10-food-service
-https://kokorovetstatiana.github.io/goit-js-hw-10-food-service
 Создай страницу меню с возможностью выбора темы для сервиса заказа еды.
 Добавь функционал изменения темы при нажатии (событие change) на чекбокс #theme-switch-toggle в тулбаре:
 - по умолчанию тема светлая.
